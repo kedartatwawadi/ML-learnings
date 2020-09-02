@@ -12,6 +12,7 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 6. Keras training manager
 7. Keras internals
 8. Compression specific utilities
+9. TF AutoGraph
 
 
 ## TensorRT
