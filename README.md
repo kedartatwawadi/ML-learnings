@@ -18,3 +18,5 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 
 ## Writing a CUDA kernel
 
+## Python best practices
+1. Python `@decorators`
