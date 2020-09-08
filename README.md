@@ -15,8 +15,6 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 9. TF AutoGraph
 
 
-## TensorRT
-
 ## CUDA/Deploy
 1. TensorRT
 2. Writing a CUDA Kernel
