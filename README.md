@@ -17,7 +17,10 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 
 ## TensorRT
 
-## Writing a CUDA kernel
+## CUDA/Deploy
+1. TensorRT
+2. Writing a CUDA Kernel
+3. Profiling ML code using NSight
 
 ## Python best practices
 1. Python `@decorators` [https://realpython.com/primer-on-python-decorators/](https://realpython.com/primer-on-python-decorators/)
@@ -26,3 +29,4 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 4. Creating a python module/package. Python project structure
 5. Creating a python API to a C++ code
 6. Python `typing` package
+7. Python `@staticmethod` decorator
