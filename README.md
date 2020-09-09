@@ -30,3 +30,4 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 7. Python `@staticmethod` decorator
 8. Python `@property` decorator
 9. Pyhton `@dataclass` decorator, `field()`
+10. python classes `super()`
