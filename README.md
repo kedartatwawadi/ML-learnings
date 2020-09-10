@@ -31,3 +31,11 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 8. Python `@property` decorator
 9. Pyhton `@dataclass` decorator, `field()`
 10. python classes `super()`
+
+## SSH tricks
+1. SSH verbose `-vvv`
+2. SSH port forwarding
+3. SSH authentication using a key
+4. SSH X forwarding
+5. Adding common SSH command aliases
+
