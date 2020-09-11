@@ -31,6 +31,8 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 8. Python `@property` decorator
 9. Pyhton `@dataclass` decorator, `field()`
 10. python classes `super()`
+11. Python `filter, map, reduce`
+12. Python `functools.partial()`
 
 ## SSH tricks
 1. SSH verbose `-vvv`
@@ -38,4 +40,4 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 3. SSH authentication using a key
 4. SSH X forwarding
 5. Adding common SSH command aliases
-
+6. SSHFS mounting
