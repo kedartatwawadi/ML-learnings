@@ -41,3 +41,7 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 4. SSH X forwarding
 5. Adding common SSH command aliases
 6. SSHFS mounting
+
+## git/github 
+1. `git` basics
+2. `Github` projects
