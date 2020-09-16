@@ -33,6 +33,7 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 10. python classes `super()`
 11. Python `filter, map, reduce`
 12. Python `functools.partial()`
+13. Python `threading` 
 
 ## SSH tricks
 1. SSH verbose `-vvv`
