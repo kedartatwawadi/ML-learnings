@@ -34,6 +34,7 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 11. Python `filter, map, reduce`
 12. Python `functools.partial()`
 13. Python `threading` 
+14. Python class inheritance. Multiple class inheritance
 
 ## SSH tricks
 1. SSH verbose `-vvv`
