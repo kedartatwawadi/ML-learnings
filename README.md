@@ -36,6 +36,7 @@ Recently, at work we decided to move to TF 2.0 and keras from TF1.0. Keras comes
 13. Python `threading` 
 14. Python class inheritance. Multiple class inheritance
 15. Python `importlib, import_module`
+16. Python `@contextmanager`
 
 ## SSH tricks
 1. SSH verbose `-vvv`
